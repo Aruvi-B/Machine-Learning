@@ -25,6 +25,12 @@ Description: Developed a digit recognizer system using XG Boost, K-Nearest Neigh
 Usage
 
 Contact
-For any inquiries or collaboration opportunities, you can reach out to me via email: [aruviimagination@gmail.com]
+
+If you are interested in connecting with me for inquiries or collaboration opportunities, feel free to reach out through the following channels:
+
+Email: aruviimagination@gmail.com
+LinkedIn: [Aruvi B](https://www.linkedin.com/in/aruvib/).
+GitHub: [Aruvi B](https://github.com/Aruvi-B/)
+Looking forward to connecting with you!
 
 Happy exploring!
