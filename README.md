@@ -28,7 +28,7 @@ Contact
 
 If you are interested in connecting with me for inquiries or collaboration opportunities, feel free to reach out through the following channels:
 
-Email: aruviimagination@gmail.com
+Email: aruvibalamurugan@gmail.com
 LinkedIn: [Aruvi B](https://www.linkedin.com/in/aruvib/).
 GitHub: [Aruvi B](https://github.com/Aruvi-B/)
 Looking forward to connecting with you!
